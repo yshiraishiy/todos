@@ -1,5 +1,6 @@
 import React from 'react';
 import InputForm from './InputForm';
+import EditForm from './EditForm';
 
 const App = () => {
   
