@@ -1,4 +1,5 @@
 const InputForm = () => {
+  return (
   <>
   <input 
     type='text'
@@ -6,6 +7,7 @@ const InputForm = () => {
   />
   <button>作成</button>
   </>
+  )
 }
 
 export default InputForm;
